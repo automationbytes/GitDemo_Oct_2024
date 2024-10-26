@@ -1,0 +1,16 @@
+git init - initialize a proj
+git clone - clone the repo to ur local
+
+git add - add a file
+git mv - move a file
+git rm - remove a file
+
+
+git status - status of the repo4
+
+git commit - commit your changes
+git push - push the changes to the repo
+
+git checkout - checkout branches
+
+git remote add origin repo
